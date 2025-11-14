@@ -1,0 +1,8 @@
+<suite name="Test Suite" parallel="classes" thread-count="2">
+    <test name="Form and Alert Tests">
+        <classes>
+            <class name="tests.FormsTest"/>
+            <class name="tests.AlertsTest"/>
+        </classes>
+    </test>
+</suite>
